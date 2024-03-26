@@ -1,2 +1,5 @@
-l = ["l"]
-print(l[-1])
+haystack = "sadbutsad"
+needle = "sad"
+
+print(haystack[0:3+0])
+print(needle)
